@@ -30,7 +30,7 @@ router.get('/qnet', function(req, res) {
 router.get('/toeic', function(req, res) {
   res.render('issuer', { 
     title: 'TOEIC', 
-    javascript: '/javascripts/qnet_ajax.js'
+    javascript: '/javascripts/toeic_ajax.js'
   });
 });
 

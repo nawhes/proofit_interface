@@ -9086,3 +9086,7 @@ input[type=range]::-ms-thumb {
 .PROOFIT_INPUT::-ms-input-placeholder {
   color: #007711;
 }
+
+#PROOFIT {
+    word-break:break-all;
+}
